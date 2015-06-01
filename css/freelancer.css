@@ -270,7 +270,7 @@ header{
 }
 header .award{
     position: absolute;
-    top: 70px;
+    top: 55px;
     left: 30px;
 }
 .award .col img{
@@ -321,16 +321,14 @@ header .award{
 }   
 #screenings .table > thead > tr > th{
   font-family: 'caviar_dreamsbold';
-  padding: 5px 0;
-  padding: 20px;
-  font-size: 22px;
+  font-size: 20px;
 }
 #screenings table tr:hover{
   cursor: pointer;
 }
 #screenings .table > tbody > tr > td{
-  padding: 15px;
-  font-size: 20px;
+  padding: 15px 0;
+  font-size: 18px;
 } 
 
 
